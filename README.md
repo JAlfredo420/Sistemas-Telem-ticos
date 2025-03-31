@@ -4,15 +4,15 @@ Una breve descripción del proyecto.
 
 ## Índice
 
-1. [Instalación](#instalación)
+1. [Oracle](#oracle)
 2. [Uso](#uso)
 3. [Contribuciones](#contribuciones)
 4. [Licencia](#licencia)
 5. [Contacto](#contacto)
 
-## Instalación
+## Oracle
 
-Aquí describes cómo instalar y configurar tu proyecto.
+🚀
 
 ```bash
 # Ejemplo de comandos para instalar
