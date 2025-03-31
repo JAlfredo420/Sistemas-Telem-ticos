@@ -1,5 +1,4 @@
-# Nombre del Proyecto
-📡
+# Nombre del Proyecto 📡
 Proyecto Final Sistemas Telematicos
 
 ## Índice
