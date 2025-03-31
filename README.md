@@ -1,9 +1,19 @@
-# Sistemas-Telem-ticos
-Proyecto Final
-# INTRODUCCION 1
-En este commit se evidenciara el trabajo que se realizo durante el transcurso del cuatrimestre, en la materia de Sistemas Telematicos
-## DESARROLLO level 2
-### This is level 3
-#### This is level 4
-##### This is level 5
+# Nombre del Proyecto
 
+Una breve descripción del proyecto.
+
+## Índice
+
+1. [Instalación](#instalación)
+2. [Uso](#uso)
+3. [Contribuciones](#contribuciones)
+4. [Licencia](#licencia)
+5. [Contacto](#contacto)
+
+## Instalación
+
+Aquí describes cómo instalar y configurar tu proyecto.
+
+```bash
+# Ejemplo de comandos para instalar
+npm install
