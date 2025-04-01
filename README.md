@@ -9,10 +9,9 @@ Sistemas Telematicos
 4. [Licencia](#licencia)
 5. [Contacto](#contacto)
 
-## Oracle
+## Oracle 🚀
 
-🚀
-1. Creación de Cuenta en Oracle Cloud
+## Creación de Cuenta en Oracle Cloud
 2. Ve a Oracle Cloud.
 3. Haz clic en Empieza Gratis ó selecciona la opción de registro para estudiantes.
 4. Completa el formulario de inscripción con tus datos personales.
