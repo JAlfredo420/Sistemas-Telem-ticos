@@ -18,3 +18,4 @@ Sistemas Telematicos
 5. Completa el formulario de inscripción con tus datos personales.
 6. Verifica tu correo electrónico y confirma tu cuenta.
 7. Accede al Panel de Oracle Cloud para gestionar tus servicios.
+Oracle/Ima/creatorin.png
