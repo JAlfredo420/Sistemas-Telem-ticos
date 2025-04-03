@@ -6,8 +6,12 @@ Sistemas Telematicos
 ### Docente: Luis Rey Lara Gonzales
 ---
 ### Materia: Sistemas Telematicos
+![scared](https://github.com/JAlfredo420/Sistemas-Telem-ticos/blob/afb6b172210ff714e57a96ceef47c0148df55b58/sis.png)
 
-## Índice
+### Introduccion
+ A lo largo del cuatrimestre, se trabajó con herramientas como la creación de servidores VPS, el uso del ESP32 en proyectos IoT, el desarrollo de páginas web con PHP y la gestión de bases de datos.
+ 
+## Índice🦾
 ---
 1. [Oracle](https://github.com/JAlfredo420/oracle/blob/e2be1390d06fd8673a3add6a036cc180c3854cdc/README.md)
 * Aqui se encuentra una pequeña gia de como crear una cuenta, como la instancia para generar un VPS.
