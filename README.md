@@ -7,7 +7,8 @@ Sistemas Telematicos
 * Aqui se encuentra una pequeña gia de como crear una cuenta, como la instancia para generar un VPS.
 3. [ESP32](https://github.com/JAlfredo420/TemasESP32/blob/d34383853ab15a1bd6248749e1f52a54eb9e73a7/README.md)🛜
 * En este contenido habra algunos codigos con los que se estuvieron trabajando durante el cuatrimestre
-4. [Contribuciones](#contribuciones)
+4. [PHP](#contribuciones)
+* Creacion de paginas web, conexión con bases de datos y manejo de servidores.
 5. [Licencia](#licencia)
 6. [Contacto](#contacto)
 
